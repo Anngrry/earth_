@@ -804,6 +804,29 @@ font-family: Montserrat;
 	}
 }
 
+
+@media (max-width: 1450px) {
+	body {
+		width: 100vw;
+	}
+
+	.offer {
+
+
+	}
+
+	.container {
+		margin: 0 auto;
+		max-width: 900px;
+	}
+
+}
+
+
+
+
+
+
 @media (max-width: 1300px) {
 	.container {
 		margin: 0 auto;
